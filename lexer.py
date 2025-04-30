@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # File: cminus_scanner.py
 # Project: C-Minus Compiler (Lexical Analyzer)
-# Author: [Your Name]
-# Course: Compiler Construction, Section [Your Section]
-# Date: [Your Date]
+# Author: [Abdelrahman Hesham]
+# Course: Compiler Construction, Section [Sunday (11:00)]
+
 # Description:
 #     A Python-based scanner for the C-Minus language.
 #     This scanner uses a GUI built with Tkinter to input and tokenize
